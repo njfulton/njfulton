@@ -18,6 +18,10 @@ life on them, in production, with verification behind them.
   — how the whole thing fits together: sanitized skill examples,
   orchestration code, and the guardrail design behind 40+ production
   automations.
+- **[x-mcp](https://github.com/njfulton/x-mcp)** — an MCP server I use
+  every day for research feeds: RSS, X, arXiv, Hacker News, Reddit, and
+  YouTube transcripts. Python. The tests fake all HTTP, so the suite runs
+  offline and deterministically.
 - **[workout-app](https://github.com/njfulton/workout-app)** — an
   ordinary app built the way everything here gets built. Kotlin, Compose,
   Room, 138 commits of real iterative history. Claude Code doing the
