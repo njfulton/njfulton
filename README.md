@@ -51,4 +51,4 @@ employer's work. The patterns are public, and I'm glad to walk through
 any of them live.
 
 njfulton@gmail.com ·
-[LinkedIn](https://www.linkedin.com/in/nick-fulton-89926111)
+[LinkedIn](https://www.linkedin.com/in/njfulton)
